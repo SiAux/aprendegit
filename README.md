@@ -1,2 +1,2 @@
-# aprendegit
- curso git
+# Olá mundo!
+Curso de Git
